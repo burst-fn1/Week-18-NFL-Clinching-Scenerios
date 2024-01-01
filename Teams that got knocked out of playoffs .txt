@@ -1,0 +1,23 @@
+<!DOCTYPEHTML>
+<html>
+<head>
+<title> NFL Playoff News Article </title>
+
+
+
+
+<style>
+
+
+
+
+
+
+
+
+
+
+
+</style>
+</head>
+<body>
